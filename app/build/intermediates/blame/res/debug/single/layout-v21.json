@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/khomesh/.android/build-cache/7cf59671c7b39c1b7c7aaecab45cdb9868af829c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/khomesh/.android/build-cache/7cf59671c7b39c1b7c7aaecab45cdb9868af829c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/khomesh/.android/build-cache/7cf59671c7b39c1b7c7aaecab45cdb9868af829c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/khomesh/.android/build-cache/7cf59671c7b39c1b7c7aaecab45cdb9868af829c/output/res/layout-v21/notification_action.xml"
+    }
+]

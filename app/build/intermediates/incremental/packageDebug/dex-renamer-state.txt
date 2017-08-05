@@ -1,0 +1,7 @@
+#Sat Aug 05 18:45:22 IST 2017
+base.0=/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c3ec5b7f88e0f6d7162384ca6bbb908b710bf81
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bbc4ce4856e6d501c361ad397093808c98c0046/classes.dex
+base.1=/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bbc4ce4856e6d501c361ad397093808c98c0046
+file.0=/home/khomesh/AndroidStudioProjects/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c3ec5b7f88e0f6d7162384ca6bbb908b710bf81/classes.dex
